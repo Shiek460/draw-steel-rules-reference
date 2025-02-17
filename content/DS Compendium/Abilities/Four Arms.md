@@ -1,0 +1,1 @@
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use [[Grab]] or [[Knockback]] on an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can grab up to two creatures at a time.

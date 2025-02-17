@@ -1,0 +1,1 @@
+You have an edge on tests to parse schematics, maps, and other systematic documentation that aren't inherently chaotic. In addition, you interact with any language you don't know as if you know a related language, whether or not you actually do.

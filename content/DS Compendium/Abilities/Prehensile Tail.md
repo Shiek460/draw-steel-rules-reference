@@ -1,0 +1,1 @@
+Your prehensile tail allows you to challenge foes on all sides. You can’t be flanked.

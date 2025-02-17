@@ -1,0 +1,4 @@
+- Outnumber a hero at roughly **two to one**
+- Bands slightly stronger than minions
+- Effective alongside monster bands
+- Double or triple up these to be safe if they are important to a fight

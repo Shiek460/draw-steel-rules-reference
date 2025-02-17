@@ -1,0 +1,1 @@
+Your connection to Axiom allows you to regulate your movements, even when other creatures would be forced to pause. ==You can't be slowed.==

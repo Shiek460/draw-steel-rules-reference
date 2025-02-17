@@ -1,0 +1,15 @@
+# 1ST-ECHELON TRINKETS
+[[COLOR CLOAK (BLUE)]]
+[[COLOR CLOAK (RED)]]
+[[COLOR CLOAK (YELLOW)]]
+[[Deadweight]]
+[[DISPLACING REPLACEMENT BRACER]]
+[[Divine Vine]]
+[[Flameshade Gloves]]
+[[Gecko Gloves]]
+[[Gyrotoque]]
+[[Hellcharger Helm]]
+[[Mask of the Many]]
+[[Quantum Satchel]]
+[[Unbinder Boots]]
+  

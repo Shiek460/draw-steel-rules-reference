@@ -1,0 +1,1 @@
+Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes `1d10 + level` psychic damage.

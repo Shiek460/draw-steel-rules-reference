@@ -1,0 +1,6 @@
+STAR-HUNTER
+Shimmering light flows like liquid along this suit of crystalline armor
+
+Keywords: Heavy Armor, Psionic Item Prerequisites: Fifty pounds of astral ice, one pint of supercooled mercury Project Source: Texts or lore in Voll Project Roll Characteristic: Might, Reason, or Intuition Project Goal: 450 
+
+1st Level: While you wear this armor, you have a +7 bonus to Stamina, but any magic ability gains an edge when targeting you. Additionally, you instinctively know the location of any concealed creature within 2 squares. You can also turn invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next turn. 5th Level: The armor’s bonus to Stamina increases to +14, and you instinctively know the location of any concealed creature within 5 squares. Your invisibility no longer ends at the end of your next turn. Additionally, you have psychic immunity 5. 9th Level: The armor’s bonus to Stamina increases to +25, and you instinctively know the location of any concealed creature within 10 squares. Your invisibility no longer ends when you use an ability, and you have psychic immunity 10.

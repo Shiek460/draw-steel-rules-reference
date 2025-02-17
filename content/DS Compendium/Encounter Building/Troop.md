@@ -1,0 +1,3 @@
+- **One to two** ratio. Can handle about two PCs
+- Functional opposite of minions
+- Fight with minions/troop to round out encounter

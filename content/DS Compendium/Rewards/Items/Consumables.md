@@ -1,0 +1,15 @@
+- As a guideline, a hero should always be able to find consumable treasures or the materials required to craft consumables of their echelon and lower
+# 1ST-ECHELON CONSUMABLES
+[[Black Ash Dart]]
+[[Blood Essence Vial]]
+[[Catapult Dust]]
+[[Giant's Blood Flame]]
+[[Growth Potion]]
+[[Healing Potion]]
+[[Imp's Tongue]]
+[[Lachomp Tooth]]  
+[[Mirror Token]]  
+[[Pocket Homunculus]]
+[[Portable Cloud]]
+[[Professor Veratismo's Quaff Huff & Snuff]]
+[[Snapdragon]]

@@ -1,0 +1,1 @@
+You instinctively know the location of any concealed creatures who aren’t [[HIDE AND SNEAK|hidden]] from you, negating the useful bane on strikes against them.

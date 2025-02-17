@@ -1,0 +1,2 @@
+- **One : Two** ; can handle two PCs
+- Buffs allies, grants extra actions

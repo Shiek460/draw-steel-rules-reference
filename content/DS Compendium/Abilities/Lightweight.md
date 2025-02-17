@@ -1,0 +1,1 @@
+Your body is light. You are considered 1S when being force moved by another creature.

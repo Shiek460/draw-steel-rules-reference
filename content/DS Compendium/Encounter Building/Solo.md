@@ -1,0 +1,6 @@
+- All by itself; up to 5 heroes!
+- Each Round:
+	- Take up to two turns
+	- Each Turn:
+		- Take two actions
+		- If [[Dazed]], can take one action and one maneuver per turn`

@@ -1,0 +1,1 @@
+Velloparatha might hinder, but it also fuels your strikes. You know how to turn your pain into something your enemies feel. When ==combat starts, you gain one surge==.
