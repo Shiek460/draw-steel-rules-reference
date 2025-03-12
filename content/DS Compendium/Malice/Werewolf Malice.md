@@ -1,0 +1,4 @@
+WEREWOLF MALICE 
+# MALICE FEATURES
+At the start of a werewolf’s turn, you can spend malice to activate one of the following features. Blood In Their Eyes ◆ 3 Malice The werewolf gains 10 temporary 
+stamina: and their speed increases by 3 until the end of their turn. The werewolf can’t activate this power if they took any holy damage since the end of their previous turn. Accursed Mist ◆ 5 Malice The encounter map becomes hazy until the end of the round. The werewolf has damage immunity 2 and is concealed while in the mist. Any Creatures that have 1 or more ferocity at the end of their turn while in the mist gains 2 ferocity. Moonfall ◆ 10 Malice The encounter map turns to night and the moon appears impossibly big in the sky until the end of the encounter. The werewolf can take an additional maneuver on each of their turns while they have line of effect to the moon. 

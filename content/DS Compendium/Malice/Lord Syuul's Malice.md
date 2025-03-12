@@ -1,0 +1,6 @@
+LORD SYUUL’S MALICE 
+# MALICE FEATURES
+At the start of Lord Syuul’s turn, you can spend malice to activate one of the following features. Guise ◆ 3 Malice Lord Syuul projects a psionic image over their body, making him unable to be identified as an enemy until the end of his next turn. Do It For Me ◆ 5 Malice Lord Syuul psionically plunders the mind of all creatures within 2 of him. Each creature makes a 
+Reason test. ✸ ≤11 13 psychic damage; makes a signature attack against a creature Lord Syuul chooses. ★ 12-16 10 psychic damage; makes a free strike against a creature Lord Syuul chooses. ✦ 17 No Effect. Overpower ◆ 7 Malice Lord Syuul sends out a psionic burst to completely overpower his greatest threats. He makes a 
+Reason Test (2d10 + 4). ✦ ≤11 Lord Syuul gains damage weakness 5. ★ 12-16 Lord Syuul gains damage immunity 2. ✸ 17 Lord Syuul gains damage immunity 5. He can repeat this reason test once per round as a maneuver, replacing the previous Overpower effect. However, any hero who has at least one psionic ability can use their maneuver to push back on this effect with a 
+Reason Test of their own, replacing the previous Overpower effect. ✦ ≤11 Lord Syuul gains damage immunity 5. ★ 12-16 Lord Syuul gains damage immunity 2. ✸ 17 Lord Syuul gains damage weakness 5. The Overpower effect lasts until the end of the encounter. 

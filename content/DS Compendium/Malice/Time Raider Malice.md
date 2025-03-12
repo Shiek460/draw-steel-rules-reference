@@ -1,0 +1,6 @@
+TIME RAIDER MALICE 
+# MALICE FEATURES
+At the start of any time raider’s turn, you can spend malice to activate one of the following features. Gravity Well (Maneuver) ◆ 3 Malice Keywords Area, Psionic, Weapon Distance 5 cube within 3 Target Special Effect A time raider acting this turn activates a gravity well in the affected area. The gravity well sits in the center of the cube and lasts until the end of the encounter or until a creature who can reach the well uses a maneuver to disable it. The affected area is considered difficult terrain for enemies. Whenever an enemy ends their turn in an affected square, they are pulled 4 towards the well. Recall Module ◆ 5 Malice Until the end of the round, each time raider has the teleport keyword added to their movement and their speed increases by 3. Psi-Cage ◆ 10 Malice All time raiders in the encounter create a psionic field over the encounter map, which lasts until the time raider with the highest 
+stamina: maximum drops to 
+stamina: 0 or chooses to end the field. While the field is up, each non-time raider on the map must make a 
+Reason test against this psionic effect at the start of each round. ✸ ≤11 10 psychic damage; slowed (EoT) ★ 12–16 7 psychic damage; slowed (EoT) ✦ 17+ No effect 

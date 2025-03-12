@@ -1,0 +1,4 @@
+ASHEN HOARDER MALICE 
+# MALICE FEATURES
+At the start of an ashen hoarder’s turn, you can spend malice to activate one of the following features. Relentless Strikes ◆ 3 Malice The ashen hoarder moves up to its speed and makes a free strike against two targets. Blade Wall ◆ 5 Malice The ashen hoarder unearths a 10 wall of bones and blades into unoccupied squares within 5. Each segment of the wall has 5 
+stamina:. An enemy that enters a square adjacent to a wall segment or starts their turn in one takes 4 damage. Bone Storm ◆ 7 Malice The ashen hoarder launches several bone lances into the air, raining them down on enemies and impaling those unlucky enough to be on the receiving end. Each enemy within 20 of the ashen hoarder must make an Agility test. ✸ ≤11 14 damage; restrained and bleeding (save ends) ★ 12–16 11 damage; bleeding (EoT) ✦ 17+ 6 damage 

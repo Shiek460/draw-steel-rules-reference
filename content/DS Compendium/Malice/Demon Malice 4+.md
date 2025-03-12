@@ -1,0 +1,3 @@
+DEMON MALICE LEVEL 4+ 
+# MALICE FEATURES
+At the start of a level 4+ demon’s turn, you can spend malice to activate one of the following features. Prior Malice Features ◆ X Malice The demon activates a malice feature available to demons level 3 or lower. Abyssal Jaunt ◆ 3 Malice A demon acting on this turn folds space around them, temporarily slipping in and out of the abyss. Until the start of the demon’s next turn, the demon ignores difficult terrain, can move freely through solid matter, and doesn’t provoke opportunity attacks by moving. If the demon ends their turn inside solid matter, they are forced out into the space they originally entered. 

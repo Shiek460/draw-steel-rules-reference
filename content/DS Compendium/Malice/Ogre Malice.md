@@ -1,0 +1,5 @@
+OGRE MALICE 
+# MALICE FEATURES
+At the start of any ogre’s turn, you can spend malice to activate one of the following features. Shockwave ◆ 3 Malice An ogre acting this turn jumps and lands on their rear, causing a 3 burst shockwave. Each size: 1 creature in the affected area must make a 
+Mightor 
+Agility test. ✸ ≤11 5 damage; vertical push 3; prone ★ 12–16 4 damage; vertical push 2 ✦ 17 Push 1 Bully ◆ 5 Malice All ogres shift up to their speed and make a free strike. The ogres prefer to gang up on the same target rather than pick different targets, if they can. Rampage ◆ 7 Malice Until the end of the round, each ogre has damage immunity 5 and deals an additional 5 damage with their strikes and abilities. While this feature is active, heroic abilities that target an ogre have their costs reduced by 1 (to a minimum of 1). 

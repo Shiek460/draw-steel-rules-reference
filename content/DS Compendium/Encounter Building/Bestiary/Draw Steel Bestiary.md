@@ -1030,29 +1030,29 @@ Effect: The sneak chooses an enemy within distance of the attack. The attack tar
 
 ## CHIMERA
 
-Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in its throat. Many see the [[Chimera|chimera]] as an aggressor, but few know its origins as a divine guardian.
+Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in its throat. Many see the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] as an aggressor, but few know its origins as a divine guardian.
 
 ### THE FIRST CHIMERA
 
-The first [[Chimera|chimera]] was a gift. A deity gave a devout queen this young guardian-one with the intelligence of a dragon, the bravery of a lion, and the tenacity of a ram. The queen raised the [[Chimera|chimera]] to be a strong protector of not just her person, but of her people, who loved the [[Chimera|chimera]] and their ruler. But neighboring lands feared the monstrosity. As a conquering force swept into the land, their first defilement of peace was slaughtering the [[Chimera|chimera]].
+The first [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] was a gift. A deity gave a devout queen this young guardian-one with the intelligence of a dragon, the bravery of a lion, and the tenacity of a ram. The queen raised the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] to be a strong protector of not just her person, but of her people, who loved the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] and their ruler. But neighboring lands feared the monstrosity. As a conquering force swept into the land, their first defilement of peace was slaughtering the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]].
 
-The queen's resulting fury was said to be felt by the gods. As she screamed, a nearby volcano erupted, spewing basalt and [[Chimera|chimeras]] over the land. With fiery might, the [[Chimera|chimeras]] overtook the opposing army and dispersed. Each found a new territory and claimed the role of divine protector over that place, its inhabitants, and its treasures.
+The queen's resulting fury was said to be felt by the gods. As she screamed, a nearby volcano erupted, spewing basalt and [[DS Compendium/Encounter Building/Bestiary/Chimera|chimeras]] over the land. With fiery might, the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimeras]] overtook the opposing army and dispersed. Each found a new territory and claimed the role of divine protector over that place, its inhabitants, and its treasures.
 
 ### TACTICAL WARRIORS
 
-[[Chimera|Chimeras]] have many ways to keep themselves and their [[Charge|charges]] from being cornered. The lion head snaps up enemies in massive jaws and hurls them away, the ram head pummels them to the ground, and the dragon head bathes them in fire. The sound of the three heads crying together can shake even the most stalwart warriors.
+[[DS Compendium/Encounter Building/Bestiary/Chimera|Chimeras]] have many ways to keep themselves and their [[Charge|charges]] from being cornered. The lion head snaps up enemies in massive jaws and hurls them away, the ram head pummels them to the ground, and the dragon head bathes them in fire. The sound of the three heads crying together can shake even the most stalwart warriors.
 
 ### ONE BEING, THREE HEADS
 
-Unlike many other multiheaded creatures, a [[Chimera|chimera]] has a single mind. Their heads work together, never snapping at one another over food, favors, or personality conflicts. The heads often express the [[Chimera|chimera]]'s emotions in unison, braying together in times of battle or purring all at once to show affection.
+Unlike many other multiheaded creatures, a [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] has a single mind. Their heads work together, never snapping at one another over food, favors, or personality conflicts. The heads often express the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]]'s emotions in unison, braying together in times of battle or purring all at once to show affection.
 
 ### CHIMERA MALICE
 
-At the start of a [[Chimera|chimera]]'s turn, you can spend malice to activate one of the following features.
+At the start of a [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]]'s turn, you can spend malice to activate one of the following features.
 
-- **Defensive Snapping (3 Malice):** The [[Chimera|chimera]] takes up a defensive stance. Until the start of their next turn, the [[Chimera|chimera]] can make a [[Free Strike|free strike]] against each enemy that comes within 2 of them.
-- **Unstable Terrain (5 Malice):** The [[Chimera|chimera]] shakes the crowd, causing loose rocks or debris to appear. Create three Size 1L stone objects anywhere on the battlefield. Each creature adjacent to one of the objects when it appears takes A2 5 damage.
-- **Ashen Clouds (7 Malice):** Until the beginning of the [[Chimera|chimera]]'s next turn, the entire battle map is concealed by a thick cloud of ash. The [[Chimera|chimera]] ignores concealment. Each enemy R1 can't establish line of effect beyond 3 squares until the cloud dissipates. The potency of this feature increases each time it's used.
+- **Defensive Snapping (3 Malice):** The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] takes up a defensive stance. Until the start of their next turn, the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] can make a [[Free Strike|free strike]] against each enemy that comes within 2 of them.
+- **Unstable Terrain (5 Malice):** The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] shakes the crowd, causing loose rocks or debris to appear. Create three Size 1L stone objects anywhere on the battlefield. Each creature adjacent to one of the objects when it appears takes A2 5 damage.
+- **Ashen Clouds (7 Malice):** Until the beginning of the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]]'s next turn, the entire battle map is concealed by a thick cloud of ash. The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] ignores concealment. Each enemy R1 can't establish line of effect beyond 3 squares until the cloud dissipates. The potency of this feature increases each time it's used.
 
 ### STATBLOCKS
 
@@ -1075,12 +1075,12 @@ At the start of a [[Chimera|chimera]]'s turn, you can spend malice to activate o
 
 **Solo Monster**
 
-- **Solo Turns:** The [[Chimera|chimera]] takes 2 turns each round. They can use two actions on each of their turns and can take each turn after an enemy turn they choose. While [[Dazed|dazed]], the [[Chimera|chimera]] can take one action and one maneuver per turn.
+- **Solo Turns:** The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] takes 2 turns each round. They can use two actions on each of their turns and can take each turn after an enemy turn they choose. While [[Dazed|dazed]], the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] can take one action and one maneuver per turn.
 
-**End Effect:** At the end of their turn, the [[Chimera|chimera]] can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+**End Effect:** At the end of their turn, the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
 **Volant**
-When the [[Chimera|chimera]] makes a creature winded or reduces them to 0 Stamina or less, the [[Chimera|chimera]] can move their speed towards one enemy within line of effect.
+When the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] makes a creature winded or reduces them to 0 Stamina or less, the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] can move their speed towards one enemy within line of effect.
 
 **Bite (Action)** ◆ 2d10 + 3 ◆ Signature
 Keywords: Attack, Melee, Weapon
@@ -1090,7 +1090,7 @@ Target: 2 creatures or objects
 - ✦ ≤11: 6 damage
 - ★ 12-16: 10 damage
 - ✸ 17+: 13 damage
-    Effect: This attack has an edge if the [[Chimera|chimera]] has an edge on the attack.
+    Effect: This attack has an edge if the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] has an edge on the attack.
 
 **Dragon's Eruption (Action)** ◆ AGL RR ◆ 7 Malice
 Keywords: Area, Magic
@@ -1123,8 +1123,8 @@ Target: All enemies in the burst
 Keywords: Attack, Melee, Weapon
 Distance: Ranged 5
 Target: 1 creature
-Trigger: The target attacks the [[Chimera|chimera]] and gets a tier-1 result.
-Effect: The [[Chimera|chimera]] shifts 5. If they end this movement adjacent to the target, roll power.
+Trigger: The target attacks the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] and gets a tier-1 result.
+Effect: The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] shifts 5. If they end this movement adjacent to the target, roll power.
 
 - ✦ ≤11: 3 damage; M2 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 5 damage; [[Prone|prone]]; M3 [[Slowed|slowed]] (save ends)
@@ -1134,19 +1134,19 @@ Effect: The [[Chimera|chimera]] shifts 5. If they end this movement adjacent to 
 Keywords: Area, Melee, Weapon
 Distance: 1 burst
 Target: All enemies in the burst
-Effect: The [[Chimera|chimera]] uses Bite and Lion's Toss against each target.
+Effect: The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] uses Bite and Lion's Toss against each target.
 
 **Fire Solo (Villain Action 2)**
 Keywords: Area, Melee, Weapon
 Distance: Self
 Target: Self
-Effect: The [[Chimera|chimera]] uses Dragon's Eruption and Roar without spending malice.
+Effect: The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] uses Dragon's Eruption and Roar without spending malice.
 
 **Chorus of Destruction (Villain Action 3)**
 Keywords: --
 Distance: Self
 Target: Self
-Effect: The [[Chimera|chimera]] uses Roar. The [[Chimera|chimera]] then shifts their speed and can make a [[Free Strike|free strike]] against each enemy who comes within 1 of them during the move. When the [[Chimera|chimera]] ends this movement, they use Dragon's Eruption.
+Effect: The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] uses Roar. The [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] then shifts their speed and can make a [[Free Strike|free strike]] against each enemy who comes within 1 of them during the move. When the [[DS Compendium/Encounter Building/Bestiary/Chimera|chimera]] ends this movement, they use Dragon's Eruption.
 
 ## DEMONS
 

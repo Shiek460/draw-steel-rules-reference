@@ -1,0 +1,5 @@
+ORC MALICE 
+# MALICE FEATURES
+At the start of any orc’s turn, you can spend malice to activate one of the following features. Overwhelming March ◆ 3 Malice Each orc shifts up to their speed, moving through enemy squares if they can. Each enemy that was passed through during this movement makes a 
+Mighttest. ✸ ≤11 6 damage; prone ★ 12–16 4 damage; prone ✦ 17+ Push 2 Mohler Trench ◆ 5 Malice An orc acting this turn summons 2 mohlers out of the ground to dig a 1 × 10 line trench within 10 and join the encounter. The trench is 2 squares deep and is considered difficult terrain. The trench cannot be created directly underneath creatures. Mohler Cavity ◆ 7 Malice The ground shakes as a group of mohlers dig a 5 cube pit beneath an area where at least one character is standing. The mohlers leave, and the area is considered difficult terrain. Each orc in the area can shift into the nearest unoccupied square outside of the pit before it is completed. Each non-orc in the area makes an 
+Agility test. ✸ ≤11 9 damage; target falls; prone can’t stand (EoT) ★ 12–16 6 damage; target falls ✦ 17 Target can shift into the nearest unoccupied square outside of the pit 

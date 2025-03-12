@@ -1,3 +1,17 @@
+# Perks
+Heroes don't just fight monsters. They engage in exploration, investigation, negotiation, and more. Perks are features you can use to customize your heroes and give them heroic moments outside of combat. Perks, along with skills and many of your hero's class features, make your character more than a monster fighter. While these features are designed to be used outside of combat, many are versatile enough that they can also be used in combat. You get one perk from your career and can choose others from your class as your level increases.
+
+## PERK TYPES
+
+There are six types of perks:
+
+- **Crafting perks** let you better craft materials and become an expert in the things you create.
+- **Exploration perks** let you better traverse and explore environments.
+- **Interpersonal perks** let you better interact with other creatures.
+- **Intrigue perks** let you better investigate mysteries and find the truth while keeping your secrets hidden.
+- **Supernatural perks** let you use magic and psionics to influence the world around you.
+
+Whenever a feature allows you to gain a perk, it tells you which type of perk to choose.
 # Crafting
 [[Travelling Artisan]]
 [[Area Of Expertise]]

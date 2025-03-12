@@ -1,0 +1,4 @@
+MINOTAUR MALICE 
+# MALICE FEATURES
+At the start of any minotaur’s turn, you can spend malice to activate one of the following features. Bull Rush ◆ 3+ Malice A minotaur acting this turn for every 3 malice spent has their speed increased by 4 and ignores difficult terrain until the start of their next turn. Cut the… Nonsense! ◆ 5 Malice Until the start of their next turn, a minotaur acting this turn halves all incoming damage and can use Knockback as a free triggered action whenever an enemy enters an adjacent square. Bull’s Eye ◆ 7 Malice All minotaurs in the encounter fill the area with generations of feeling lost and isolated. Each enemy within 5 of a minotaur is teleported 5 and makes an 
+Intuition test. ✸ ≤11 The target can’t establish line of effect beyond 3 squares and frightened of all minotaurs (save ends) ★ 12-16 The target can’t establish line of effect beyond 3 squares (EoT) ✦ 17 no effect 

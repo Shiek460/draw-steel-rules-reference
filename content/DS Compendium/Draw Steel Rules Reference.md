@@ -7,26 +7,30 @@ kanban-plugin: board
 ## Rules
 
 - [ ] [[Tests]]
-- [ ] [[Draw Steel Rules#DYING AND DEATH|Death and Dying]]
+- [ ] [[Line of Effect]]
+- [ ] [[Death and Dying]]
 	[[Winded|Winded Condition]]
-- [ ] [[Draw Steel Rules#AREA ABILITIES|Area Abilities/Effects]]
-- [ ] [[Draw Steel Rules#HERO TOKENS|Hero Tokens]]
-- [ ] [[Draw Steel Rules#SPENDING HERO TOKENS|Spending Hero Tokens]]
-- [ ] [[Draw Steel Rules#SURGES|Surges]]
+- [ ] [[Area Abilities|Area Abilities/Effects]]
+- [ ] [[Hero Tokens]]
+- [ ] [[Hero Tokens#SPENDING HERO TOKENS|Spending Hero Tokens]]
+- [ ] [[Surges]]
 - [ ] [[Negotiation]]
-- [ ] [[Draw Steel Rules#CHARACTERISTICS|Characteristics]]
-- [ ] [[Draw Steel Rules#CRITICAL HIT|Critical Hits]]
-- [ ] [[Draw Steel Rules#ECHELONS OF PLAY|Echelons of Play]]
-- [ ] [[Draw Steel Rules#EDGES AND BANES|Edges and Banes]]
-- [ ] [[Draw Steel Rules#FALLING|Falling]]
-- [ ] [[Draw Steel Rules#HIDE AND SNEAK|Hiding]]
-- [ ] [[Draw Steel Rules#PERKS|Perks]]
-- [ ] [[Draw Steel Rules#RESISTING POTENCIES|Potencies]]
-- [ ] [[Draw Steel Rules#RESPITE|Respites]]
-- [ ] [[Draw Steel Rules#SEARCH FOR HIDDEN CREATURES|Searching for Hidden Creatures]]
-- [ ] [[Draw Steel Rules#TESTS#SKILLS|Skills]]
-- [ ] [[Draw Steel Rules#SNEAKING|Sneaking]]
-- [ ] [[Draw Steel Rules#VICTORIES|Victories]]
+- [ ] [[Opportunity Attacks]]
+- [ ] [[Characteristics]]
+- [ ] [[Potencies]]
+- [ ] [[Critical Hits]]
+- [ ] [[Echelons of Play]]
+- [ ] [[Edges and Banes]]
+- [ ] [[Falling]]
+- [ ] [[Hide and Sneak|Hiding]]
+- [ ] [[Hide and Sneak#SNEAKING|Sneaking]]
+- [ ] [[Perks]]
+- [ ] [[Respites]]
+- [ ] [[Search for Hidden Creatures]]
+- [ ] [[Skills]]
+- [ ] [[Victories]]
+- [ ] [[Experience]]
+- [ ] [[Recoveries]]
 
 
 ## Move Actions
@@ -76,6 +80,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false,"new-line-trigger":"enter"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false,"new-line-trigger":"enter","hide-card-count":true,"full-list-lane-width":true}
 ```
 %%

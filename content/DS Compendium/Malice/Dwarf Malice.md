@@ -1,0 +1,4 @@
+DWARF MALICE 
+# MALICE FEATURES
+At the start of any dwarf’s turn, you can spend malice to activate one of the following features. Breaching Charge ◆ 3+ Malice A dwarf can destroy one adjacent object or square of wall for every 3 malice spent. Each enemy adjacent to the destroyed object or square takes the object’s stamina: in damage (3 wood / 6 stone / 9 metal). Rappelling Barrage ◆ 5 Malice All dwarves acting this turn gain the climb keyword to their movement. At any point during their movement, they can make a free strike. Snaring Line (Maneuver) (Non-minion) ◆ 7 Malice Keywords Area, Magic, Ranged Distance 1 × 10 line within 10 Target All enemies Effect Each target makes an 
+Agility test. ✸ ≤11 8 damage; restrained (EoT) ★ 12–16 6 damage; slowed (EoT) ✦ 17+ No effect Effect The snaring line remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must make the test. 

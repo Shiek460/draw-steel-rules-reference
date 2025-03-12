@@ -251,82 +251,7 @@ relative to their enemies and the environment. The rules become a little more gr
 interesting and fair, but the idea that the game is a conversation between the Director and the other players remains
 the same.
 
-## CHARACTERISTICS
-
-Each creature in the game has five characteristics that represent their physical and mental prowess.
-
-### MIGHT
-
-Might (M) represents strength and brawn. A creature's ability to break down doors, swing an axe, [[Stand Up|stand up]] during an
-earthquake, or hurl an ally across a chasm is determined by Might.
-
-### AGILITY
-
-Agility (A) represents coordination and nimbleness. A creature's ability to backflip out of danger, shoot a crossbow,
-dodge an explosion, or pluck keys from a guard's belt is determined by Agility.
-
-### REASON
-
-Reason (R) represents a logical mind and education. A creature's ability to solve a puzzle that unlocks a door, recall
-lore about necromancy, decipher a coded message, or blast a foe with psionic power is determined by Reason.
-
-### INTUITION
-
-Intuition (I) represents instincts and experience. A creature's ability to recognize a faint sound as the approach of a
-distant rider, quickly read the tell of a bluffing gambler, calm a rearing horse, or track a monster across the tundra
-is determined by Intuition.
-
-### PRESENCE
-
-Presence (P) represents force of personality. A creature's ability to lie to a judge, convince a crowd to join a
-revolution, impress a queen at a royal banquet, or cast a magic spell by singing a song is determined by Presence.
-
-### CHARACTERISTIC SCORES
-
-Each characteristic has a score that runs from -5 to +5. The higher a score, the more impact the creature has with that
-characteristic. A baby bunny rabbit would have a Might score of -5, while an ancient dragon would have a Might score of
-5\. The average [[Human|human]] has a score of 0 in all their characteristics. Characteristic scores are added to power rolls-the
-dice rolls you make whenever your character attempts a task with an uncertain outcome (see *Power Rolls*).
-
-### RESISTING POTENCIES
-
-Many effects inflict conditions and unique statuses on heroes and their enemies. But creatures get a chance to resist
-these effects. A creature with a high Might score should be harder to knock [[Prone|prone]] than a creature who is lacking in that
-characteristic.
-
-These effects have a potency and only take hold of the target if the effect's potency value is higher than the target's
-indicated characteristic scores.
-
-A potency always appears in text as a capital letter followed by a single digit number, such as M1 or R3. The letter
-indicates which characteristic is used to resist the effect (M for Might, A for Agility, R for Reason, I for Intuition,
-and P for Presence), and the number indicates the minimum score in that characteristic the target needs to beat the
-effect.
-
-For example, a 1st-level conduit's *Punishing Smite* ability has the following power roll outcomes:
-
-**Power Roll + Intuition:**
-
-- **11 or lower:** 3 holy damage; A1 [[Prone|prone]]
-- **12-16:** 6 holy damage; A2 [[Prone|prone]]
-- **17+:** 9 holy damage; A3 [[Prone|prone]] and can't stand (save ends)
-
-If the conduit uses this ability and targets a bandit with an Agility score of 1, then a tier 1 result would deal holy
-damage to the bandit but have no other effect. But a tier 2 result would deal damage and knock the bandit [[Prone|prone]], while a
-tier 3 result would deal damage, knock the bandit [[Prone|prone]], and prevent the bandit from getting up until they succeed on a
-saving throw.
-
-#### YOUR POTENCY
-
-Many of your abilities have a potency. The characteristic a target uses to resist is based on the ability used, and the
-value of your potency is based on one of your characteristics and determined by your choice of class during character
-creation.
-
-You have weak, average, and strong potency values. All of these values increase as your hero [[Advance|advances]] in level and gains
-power.
-
-- **Your weak potency value** is equal to your highest characteristic score - 1.
-- **Your average potency value** is equal to your highest characteristic score.
-- **Your strong potency value** is equal to your highest characteristic score + 1.
+## [[Characteristics]]
 
 ## DICE
 
@@ -420,75 +345,7 @@ get a 20 on the power roll before adding your characteristic, this is called rol
 Whenever you roll a natural 19 or 20 on a power roll, you always achieve the tier 3 result, no matter what
 characteristic is added to the roll and whether or not the roll has any banes.
 
-### EDGES AND BANES
-
-An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their high
-ground. A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses.
-
-Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that
-heroes, their enemies, and their allies might have.
-
-#### EDGE
-
-An edge represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero
-who makes a melee attack against a [[Prone|prone]] creature gains an edge on the power roll for their attack. A pair of magic
-gloves that makes your hands sticky might grant you an edge when making a power roll to climb walls!
-
-When you make a power roll with a single edge, you add 2 to the roll. If you make a power roll with two or more edges,
-you have a *double edge*. This means you don't add anything to the power roll, but the result of the roll automatically
-improves one tier (to a maximum of tier 3).
-
-#### BANE
-
-A bane represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make
-an attack while [[Prone|prone]], the power roll for the attack takes a bane. A rainstorm might give you a bane on a power roll
-made to climb an outdoor wall because the weather makes the stone surface extra slick.
-
-When you make a power roll with a single bane, you subtract 2 from the roll. If you make a power roll with two or more
-banes, you have a *double bane*. This means you don't subtract anything from the power roll, but the result of the roll
-automatically decreases one tier (to a minimum of tier 1).
-
-#### ROLLING WITH EDGES AND BANES
-
-Under certain circumstances, you might have one or more edges and banes on the same roll. For instance, you might take a
-bane when [[Weakened|weakened]] by poison, even as you gain an edge for attacking a [[Prone|prone]] creature. In general, edges and banes
-cancel each other out, resolving as follows:
-
-- If you have an edge and a bane, or if you have a double edge and a double bane, the roll is made as usual without any
-    edges or banes.
-- If you have a double edge and just one bane, the roll is made with one edge, regardless of how many single edge
-    instances contribute to the double edge.
-- If you have a double bane and just one edge, the roll is made with one bane, regardless of how many single bane
-    instances contribute to the double bane.
-
-#### WHEN TO USE EDGES AND BANES
-
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes
-as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a
-bane on power rolls made to climb a stone wall.But it makes sense that rainy conditions should make climbing that wall
-harder, so a Director should absolutely do so!
-
-#### WHY CAP?
-
-We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those
-penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a
-creature can only benefit or be hindered by short-term circumstances so much. For example, a character who is [[Prone|prone]] and
-[[Weakened|weakened]] by poison already finds it difficult to attack-so becoming [[Restrained|restrained]] by a net can't really make it harder.
-
-We also liked capping edges and banes at two because it keeps play quick. It's nice to not need to count beyond two
-positive or negative circumstances in a battle with a lot of effects flying around.
-
-### BONUSES AND PENALTIES
-
-While edges and banes cover most circumstantial effects that can have an impact on a power roll, a few rules add numeric
-bonuses or penalties to power rolls. Bonus and penalty values are specified in the rules that impose them, and are
-calculated independently of edges and banes, and before edges and banes are factored into a power roll.
-
-There is no limit to the number of bonuses or penalties that can apply to a power roll, and bonuses and penalties always
-add together.
-
-Though it might sound as if the math with bonuses and penalties can get confusing, fear not! Bonuses and penalties are
-rare except in the case of skills, which appear on your character sheet (see *Skills* for more information).
+### [[Edges and Banes]]
 
 ## SURGE AND SHIELD SYMBOLS
 
@@ -496,56 +353,7 @@ In the text of this book, you'll notice that we often use two symbols-🌟 and �
 special bonuses that increase a creature's damage output. Shields, represented by the 🛡️ icon, are special bonuses that
 decrease damage being dealt to a creature. For more information, see *Damage in Combat*.
 
-## HERO TOKENS
-
-In all great heroic stories, luck favors the protagonists, giving them that little bit of extra fortune they need to win
-the day. In these stories, fate is often on the side of the righteous.
-
-To represent that tiny bit of karma, players have access to hero tokens, a special resource that they can rely on when
-all else fails.
-
-Hero tokens are a group resource that is tracked by the players and kept in a pool that is accessible to all their
-characters. They can be tracked using poker chips, stones, or other markers, or numerically on a piece of paper or
-written off to the side in a virtual tabletop.
-
-### EARNING HERO TOKENS
-
-At the start of a new game session, the heroes have a number of hero tokens equal to the number of heroes in the party.
-The heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to get to
-the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure
-as part of a negotiation to get shelter for a group of refugees earns a hero token for the group. The Director has the
-final say in what acts earn hero tokens.
-
-Players can also be awarded hero tokens as part of a test's outcome when they succeed in a task with a reward (see
-*Tests*).
-
-### SPENDING HERO TOKENS
-
-Whenever hero tokens are available, you can spend them in the following ways. You can only spend one hero token on your
-turn or per test:
-
-- You can spend a hero token whenever you deal damage to a creature to deal additional damage to the creature equal to
-    your level + your highest characteristic score.
-- You can spend a hero token when you fail a saving throw to succeed on it instead.
-- When you fail a test or succeed on a test with a consequence, you can spend a hero token to turn the failure into a
-    success and to lose any consequence suffered.
-- You can spend 2 hero tokens on your turn or whenever you take damage (no action required) to regain Stamina equal to
-    your Recovery value without spending a Recovery.
-
-Unless the Director decides otherwise, unused hero tokens disappear at the end of a session. A Director may lift this
-restriction if the heroes end a session with more hero tokens than they had at the start.
-
-#### FOR THE DIRECTOR: AWARDING HERO TOKENS
-
-You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of
-them. For instance, battling a group of monsters is part of the game and doesn't earn a hero token. However, the
-following sorts of activities might:
-
-- A hero stands alone against a group of enemies to allow their comrades to escape.
-- A hero willingly [[Jump|jumps]] into quicksand, into lava, off a cliff, or into some other hazard to save another character.
-- The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the
-    like, but they take the more arduous and honorable path.
-- A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
+## [[Hero Tokens]]
 
 ## GAME OF EXCEPTIONS
 
@@ -588,76 +396,17 @@ interacting with them outside of combat.
 
 ## BUILDING A HEROIC NARRATIVE
 
-The game takes place in a series of scenes with the heroes as the main characters. An adventure is a collection of
-scenes that make up a story, with a beginning, middle, and end, and a campaign is a collection of adventures that tell
-the entire epic tale of a group of heroes. You can think of each adventure as a movie in a saga of films, a book in a
-series of novels, or a season of a television show.
+The game takes place in a series of scenes with the heroes as the main characters. An adventure is a collection of scenes that make up a story, with a beginning, middle, and end, and a campaign is a collection of adventures that tell the entire epic tale of a group of heroes. You can think of each adventure as a movie in a saga of films, a book in a series of novels, or a season of a television show.
 
-While many heroes have their stories told over the course of a campaign, some wrap up their careers in a single
-adventure that takes place in one game session, called a one-shot. You can think of a one-shot as a great stand-alone
-novella or movie.
+While many heroes have their stories told over the course of a campaign, some wrap up their careers in a single adventure that takes place in one game session, called a one-shot. You can think of a one-shot as a great stand-alone novella or movie.
 
-This game is built so that each adventure you play and each battle you fight gets more exciting as it goes on. In
-fantastic tales, the heroes and their foes both grow in power over the course of an adventure. But it isn't time alone
-that grows a hero's capabilities. Rather, it's the adrenaline that comes from battle, the danger of the hero's
-profession, and the pressure to save the world that pushes a character to do the impossible. Each small act of heroism
-gives a hero the confidence and bravery to perform legendary feats against all odds.
+This game is built so that each adventure you play and each battle you fight gets more exciting as it goes on. In fantastic tales, the heroes and their foes both grow in power over the course of an adventure. But it isn't time alone that grows a hero's capabilities. Rather, it's the adrenaline that comes from battle, the danger of the hero's profession, and the pressure to save the world that pushes a character to do the impossible. Each small act of heroism gives a hero the confidence and bravery to perform legendary feats against all odds.
 
-The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start,
-and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game
-help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic
-narratives: Victories, Experience, Heroic Resources, and Recoveries.
+The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: Victories, Experience, Heroic Resources, and Recoveries.
 
-### VICTORIES
+### [[Victories]]
 
-Victories measure your hero's increasing power over the course of an adventure, as they overcome battles and other
-challenges. At the start of an adventure, your hero has 0 Victories.
-
-#### VICTORIES FOR COMBAT
-
-Each time your hero survives a combat encounter in which the party's objectives are achieved, your Victories increase by
-
-1. The Director can decide that a trivially easy encounter doesn't increase a hero's Victories.
-
-#### VICTORIES FOR NONCOMBAT CHALLENGES
-
-When your hero successfully overcomes a big challenge that doesn't involve combat, the Director can award you 1 Victory.
-Such challenges can include things like a particularly complicated and deadly trap, a negotiation, a montage test, a
-complicated puzzle, or the execution of a clever idea that avoids a battle.
-
-#### VICTORIES RESET
-
-Whenever you finish a respite (see *Respite*), your Victories are converted into Experience.
-
-#### FOR THE DIRECTOR: AWARDING VICTORIES
-
-We're still figuring out rules for encounter building, but here are some general guidelines.
-
-A successful combat in which the party's objectives are achieved earns the heroes 1 Victory. Particularly hard
-encounters are worth 2 Victories when completed. We'll have better guidelines on this topic in the future, but for now,
-consider tough boss battles worth 2 Victories.
-
-A successful negotiation or montage test should earn the heroes 1 Victory. Other noncombat challenges are left to the
-Director's discretion, but consider the following guidelines to help you determine when awarding 1 Victory is warranted:
-
-- If the heroes overcome a complicated trap that requires more than one test to find and disarm, award them 1 Victory.
-- If the heroes investigate a series of clues in a mystery, award 1 Victory when they solve the mystery.
-- If the heroes solve a complicated puzzle that requires them to use resources or would take most people at least 10
-    minutes to complete, award them 1 Victory.
-- If the heroes achieve a major story goal that accomplishes a quest (such as saving a prince trapped by an evil
-    baroness or stopping a necromancer from performing a world-ending ritual), award them 1 Victory.
-- If the heroes use clever thinking to easily and surprisingly overcome or bypass a combat encounter, a negotiation, a
-    montage test, a trap, a puzzle, or some other challenge that would award them 1 or more Victories in a more difficult
-    fashion, award them 1 Victory. Clever thinking is just as worthy of a Victory-if not more so!
-
-At the Director's discretion, particularly hard negotiations, puzzles, mysteries, and other noncombat challenges can be
-worth 2 Victories.
-
-### EXPERIENCE
-
-Victories temporarily increase a hero's power during an adventure, but Experience (or XP) permanently improves their
-capabilities. Each time you finish a respite (see below), you gain XP equal to your Victories, then your Victories drop
-to 0. In other words, your Victories are converted to XP when you finish a respite.
+### [[Experience]]
 
 For more information on how XP increases your hero's power, see *Heroic Advancement*.
 
@@ -676,42 +425,9 @@ exist to help you tell a cool heroic fantasy story, not so you can try to be cle
 rats to "win." In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a
 hero!
 
-### RECOVERIES
+### [[Recoveries]]
 
-Recoveries represent the number of times your hero can take a breather and keep fighting. Running out of Recoveries
-means your hero has reached their uttermost limit. You can spend your Recoveries with a special action (see below) or
-you might get a little magical help from a conduit, a boost of adrenaline from an allied tactician, or inspiration from
-your party's troubadour.
-
-When you spend a Recovery, you regain Stamina equal to your recovery value, which is one-third your Stamina maximum.
-
-#### SPENDING RECOVERIES
-
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see *Combat*), you can use
-the *[[Catch Breath]]* action to regain Stamina. See *[[Catch Breath]]* in *Actions* for more information. Some heroes have
-abilities that allow them or their allies to spend more Recoveries without using the *[[Catch Breath]]* action.
-
-Outside of combat and other dangerous situations, you can spend Recoveries freely.
-
-#### REGAINING RECOVERIES
-
-You regain all lost Recoveries when you finish a respite (see *Respite*).
-
-### RESPITE
-
-A respite is a focused period of rest and recuperation that allows heroes to regain Stamina and Recoveries. During a
-respite, you must spend 24 hours uninterrupted and doing nothing but sleeping, eating, dressing your wounds, and
-recuperating in a safe place. You can also undertake one respite activity, such as making a project roll (see *Research
-and Crafting* in future packets for more information), or changing your kit (see *Kits*).
-
-When you finish a respite, you regain all your Recoveries and Stamina, and your Victories convert to Experience. It is
-best to take a respite in a safe place where you aren't in a hostile environment or at risk of being attacked. If your
-respite is interrupted by enemies attacking, an earth tremor, swarms of biting insects, or similar serious distractions,
-the respite ends early and you don't gain the benefits for finishing it.
-
-The standard eight-ish hours of sleep one gets at night doesn't count as a respite. The rules assume that all heroes
-take the time to sleep, eat, and take care of all the other functions necessary for life even if they aren't engaged in
-a respite.
+### [[Respites]]
 
 ## ORDEN AND THE TIMESCAPE
 
@@ -752,7 +468,7 @@ unescorted-prisoners who serve Ajax as forced labor or are fed into the Body Ban
 their fabled Hanging City of Kal Kalavar, the stone [[Dwarf|dwarves]] do not like this deal with the Overlord, but they lack the
 power-or perhaps the will-to rebel.
 
-The Hawklords of the High Aerie now act as Ajax's royal guard. Mounted on their [[Giant Hawk|giant hawks]], these [[Human|human]] warriors
+The Hawklords of the High Aerie now act as Ajax's royal guard. Mounted on their [[DS Compendium/Bestiary/Giant Hawk|giant hawks]], these [[Human|human]] warriors
 project Ajax's power, enforce his tyrannical order, and extend his influence into every corner of the wilderness. Their
 mastery of the air means that any revolt or rebellion is seen and crushed quickly. The Dragon Phalanx is broken now, its
 knights scattered.
@@ -909,48 +625,7 @@ hero you want to create. Maybe you want to play a more traditional gruff and bea
 stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the
 game.
 
-## ECHELONS OF PLAY
-
-The core gameplay experience of Draw Steel takes place over 10 levels of play. At 1st level, player characters are
-already known as heroes and have the power to save their local village. By 10th level, people all over the world know
-the names of their saviors... maybe all the worlds!
-
-Since this game encompasses power levels from hometown to demigods, the core experience has been divided into four
-different echelons, which indicate the types of threats the heroes take on, the stakes of their stories, and the rewards
-they receive at various levels of play.
-
-### 1ST ECHELON (LEVELS 1-3)
-
-The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are [[Local Hero|local heroes]]. They save
-lost caravans, besieged villages, and overlooked neighborhoods of cities. The heroes battle bands of mortal
-humanoids-[[Dwarf|dwarves]], elves, goblins, [[Human|humans]], kobolds, [[Orc|orcs]]. They face the occasional larger monstrous threat, such as a
-[[Bredbeddle|bredbeddle]], ogre, or [[Chimera|chimera]]. These are the kinds of creatures that can threaten a small community, but rarely have
-plans for world domination or the destruction of the timescape. However, the adversaries might work for or be
-manipulated by a stronger threat as a foreshadowing of what awaits the hero at higher echelons.
-
-### 2ND ECHELON (LEVELS 4-6)
-
-The 2nd echelon of play encompasses levels 4 to 6. At this echelon, heroes are now known throughout the wider region
-they serve. In Vasloria, this means that they're saving and celebrated by an entire country. In Capital, their
-reputation and work now encompasses several different neighborhoods of the enormous city. Heroes of the timescape might
-be known for saving a planet!
-
-Heroes in this echelon battle humanoids of great supernatural power, such as draconians, [[Devil|devils]], and hobgoblins. The
-bosses they face possess cunning and ambition as great as their terrible power, such as medusas and overminds. Heroes at
-this level also face the humanoid threats of earlier levels, but these foes are their villainous counterparts of equal
-power instead of bands of ruffians or marauding armies.
-
-### 3RD ECHELON (LEVELS 7-9)
-
-The 3rd echelon of play encompasses levels 7 to 9. At this echelon, heroes are saving and known throughout the setting
-where they serve. Most folks in Vasloria, Capital, or the timescape itself know of the heroes and are grateful for their
-efforts saving the continent, massive city, or many worlds, respectively. Foes at this echelon include beings of great
-power, such as giants, vampires, and valok.
-
-### 4TH ECHELON (LEVEL 10)
-
-The 4th echelon of play encompasses level 10 (and possibly beyond in future products). At this echelon, heroes are
-saving the entire timescape from threats like liches, powerful dragons, and Ajax the Invincible.
+## [[Echelons of Play]]
 
 # MAKING A HERO
 
@@ -3271,7 +2946,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 > people! Why do you let yourselves be cowed by these... bits? Bits of people kludged together? Even the least of you is
 > worth more than these."
 
-> "Perhaps from the air," Flight Captain Lyria offered, and she stroked the feathers of her [[Giant Hawk|giant hawk]] mount to calm it.
+> "Perhaps from the air," Flight Captain Lyria offered, and she stroked the feathers of her [[DS Compendium/Bestiary/Giant Hawk|giant hawk]] mount to calm it.
 > "I could scout the forest around the..."
 
 > "No!" Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. "You are the elite of Ajax's winged
@@ -13370,172 +13045,7 @@ Reactive tests are typically made in the following circumstances, though the Dir
 
 Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's characteristics and skills written down (whether physically or digitally) for easy reference.
 
-## SKILLS
-
-Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a test, having a particular skill associated with the test increases your chance of success.
-
-### APPLYING SKILLS
-
-If you have a skill that applies to a test you make, you gain a +2 bonus (not an edge) to the test. For instance, if your hero has the **[[Hide]]** skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to [[Hide|hide]] behind a barrel, or a Presence test to disappear into a crowd.
-
-You can't apply more than one skill to a test.
-
-#### JUSTIFY THE SKILL
-
-It's not the Director's job to know all the skills in this game or to know the specific skills your hero has. Instead, the Director asks you to make a test with a characteristic, and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell your Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus or not. If the Director disagrees with you, that's the final word. Lose gracefully.
-
-If the Director does agree with you, then you get the +2 bonus from the skill! Approaching problems creatively, while remaining reasonable, can help you get the most out of your skills. For example, if you're making a Presence test to impress a noble at a party, the **Brag** skill is the obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a Presence test that uses the **Magic** skill (which you do have), as you give a brief, exciting lecture about the nature of the elements. If I was your Director, I'd allow it!
-
-Sometimes, you won't have a skill that applies to a test. That's okay! If your characteristic score is decent, you likely still have a good chance of success without a skill.
-
-#### MIXING CHARACTERISTICS AND SKILLS
-
-The bonuses from characteristics and the +2 from skills are separate and can apply to the same roll. Although certain skills are often paired with one characteristic more than others, a skill can apply to any characteristic test that makes sense. The Director has the final say on which characteristic is used to complete a task and can call for a different characteristic based on the circumstances.
-
-For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The **Intimidate** skill applies to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The **Climb** skill applies to both of these tests.
-
-### MANY SPECIFIC SKILLS
-
-This game includes a big list of skills, and each is fairly specific. For example, instead of one **Athletics** skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate **Climb**, **[[Jump]]**, **Lift**, and **Swim** skills. Instead of a **Thievery** skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: **Pick Lock**, **Pick Pocket**, and **Sabotage**.
-
-We made the decision to have a lot of specific skills based on our design goals. First, having skills this specific means that you will frequently make tests that don't use one of your character's skills and simply apply a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that is pretty darn heroic!
-
-Since players don't need to be worried about their characters covering a wide spread of skills, they're free to choose the skills they think fit their heroes best and are the most fun to work with. In this way, you can get pretty specific with the hero you want to make. Maybe you're thinking about an elementalist who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. You can make that in our game! Having a specific backstory is part of cinematic storytelling.
-
-Our rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my **Climb** skill to get a +2 bonus to my **Presence** test?" That's great! Getting creative like that is a lot of fun. It paints a visual picture, and it's tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, that sometimes encourages players to find a way to apply the same skill over and over again with as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
-
-### SKILL GROUPS
-
-Skills are broken down into five groups: **crafting**, **exploration**, **interpersonal**, **intrigue**, and **lore**.
-
-#### FOR THE DIRECTOR: MAKE YOUR OWN SKILLS
-
-Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a **Brewing** skill for brewing ale or a **Painting** skill for making art because those aren't tasks that typically come up or require a test in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills-in this case, **crafting** makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
-
-#### CRAFTING SKILLS
-
-Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
-
-Rewards for tests made with crafting skills typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
-
-Failure consequences for tests made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
-
-##### CRAFTING SKILLS
-
-| Skill         | Use                                                |
-| ------------- | -------------------------------------------------- |
-| Alchemy       | Make bombs and potions                             |
-| Architecture  | Create buildings and vehicles                      |
-| Blacksmithing | Forge metal armor and weapons                      |
-| Fletching     | Make ranged weapons and ammunition                 |
-| Forgery       | Create false badges, documents, and other items    |
-| Jewelry       | Create bracelets, crowns, rings, and other jewelry |
-| Mechanics     | Build machines and clockwork items                 |
-| Tailoring     | Craft cloth and leather clothing                   |
-
-#### EXPLORATION SKILLS
-
-Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
-
-Rewards for tests made with exploration skills typically include helping another creature engaged in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than you anticipated, and learning about or avoiding an upcoming hazard.
-
-Failure consequences for tests made with exploration skills include harming yourself, your gear, or your allies, becoming lost, or stumbling headlong into a hazard or a place you were trying to avoid.
-
-##### EXPLORATION SKILLS
-
-| Skill      | Use                                                             |
-| ---------- | --------------------------------------------------------------- |
-| Climb      | Move up vertical surfaces                                       |
-| Drive      | Control vehicles                                                |
-| Endurance  | Remain engaged in strenuous activity over a long period of time |
-| Gymnastics | Move across unsteady or narrow surfaces, and tumble             |
-| [[Heal]]   | Use mundane first aid                                           |
-| [[Jump]]   | Leap vertical and horizontal distances                          |
-| Lift       | Pick up, carry, and throw heavy objects                         |
-| Navigate   | Read a map and travel without becoming lost                     |
-| Ride       | Ride and control a mount who isn't sapient, such as a horse     |
-| Swim       | Move through deep liquid                                        |
-
-#### INTERPERSONAL SKILLS
-
-Skills from the interpersonal skill group are used to socially interact with other creatures and are particularly useful during negotiations. Aside from the **Handle Animals** skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
-
-Rewards for tests made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the person or people you interact with.
-
-Failure consequences for tests made with interpersonal skills include making the person you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable, which might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
-
-##### INTERPERSONAL SKILLS
-
-| Skill          | Use                                                                     |
-| -------------- | ----------------------------------------------------------------------- |
-| Brag           | Impress others with stories of your deeds                               |
-| Empathize      | Relate to someone on a personal level                                   |
-| Flirt          | Attract romantic attention from someone                                 |
-| Gamble         | Make bets with others                                                   |
-| Handle Animals | Interact with animal wildlife that isn't sapient                        |
-| Interrogate    | Obtain information from a creature withholding it                       |
-| Intimidate     | Awe or scare a creature                                                 |
-| Lead           | Inspire people to action                                                |
-| Lie            | Convince someone that a falsehood is true                               |
-| Music          | Perform music vocally or with an instrument                             |
-| Perform        | Engage in dance, oratory, acting, or some other physical performance    |
-| Persuade       | Convince someone to agree with you through use of your charms and grace |
-| Read Person    | Read the emotions and body language of other creatures                  |
-
-#### INTRIGUE SKILLS
-
-Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.
-
-Rewards for tests made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.
-
-Failure consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
-
-##### INTRIGUE SKILLS
-
-| Skill          | Uses                                                                                               |
-| -------------- | -------------------------------------------------------------------------------------------------- |
-| Alertness      | Intuitively sense the details of your surroundings                                                 |
-| Conceal Object | [[Hide]] an object on your person or in your environment                                           |
-| Disguise       | Change your appearance to look like a different person                                             |
-| Eavesdrop      | Actively listen to something that is hard to hear, such as a whispered conversation through a door |
-| Escape Artist  | Escape from bonds such as rope or manacles                                                         |
-| [[Hide]]       | Conceal yourself from others' observation                                                          |
-| Pick Lock      | Open a lock without using the key                                                                  |
-| Pick Pocket    | Steal an item that another person wears or carries without them noticing                           |
-| Sabotage       | Disable a mechanical device such as a trap                                                         |
-| Search         | Actively search an environment for important details and items                                     |
-| Sneak          | Move silently                                                                                      |
-| Track          | Follow a trail that another creature has left behind                                               |
-
-#### LORE SKILLS
-
-Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
-
-Rewards for tests made with lore skills typically include learning an extra piece of useful information.
-
-Failure consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful but actually makes things worse or wastes time. (It's fun to roleplay these sorts of moments, so lean in!) Alternatively, the Director can make medium and hard lore tests for each hero in secret and let the players know the narrative outcome without revealing the result of the dice.
-
-##### LORE SKILLS
-
-| Skill                   | Use                                                                                                      |
-| ----------------------- | -------------------------------------------------------------------------------------------------------- |
-| Culture                 | Knowing about a culture's customs, folktales, and taboos                                                 |
-| [[Criminal]] Underworld | Knowing about [[Criminal\|criminal]] organizations, their crimes, their relationships, and their leaders |
-| History                 | Knowing about significant past events                                                                    |
-| Magic                   | Knowing about magical places, spells, rituals, items, and phenomena                                      |
-| Monsters                | Knowing monster ecology, strengths, and weaknesses                                                       |
-| Nature                  | Knowing about natural flora, fauna, and weather                                                          |
-| Psionics                | Knowing about psionic places, spells, rituals, items, and phenomena                                      |
-| Religion                | Knowing about religious mythology, practices, and rituals                                                |
-| Rumors                  | Knowing gossip, legends, and uncertain truths                                                            |
-| Society                 | Knowing noble etiquette and the leadership and power dynamics of noble families                          |
-| Timescape               | Knowing about the various planets of the timescape                                                       |
-
-#### ARE ALL SKILLS EQUAL?
-
-This game has a big list of skills, and it's impossible for us or anyone else to know in [[Advance|advance]] which will be most useful during a campaign. For instance, the **Swim** skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The **Psionics** skill might come up a lot in a campaign where voiceless talkers are the main foes, and **Magic** might be more useful in a game where the heroes take on a circle of evil wizards.
-
-If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. At the Director's discretion, you can swap out any skill you have with any other skill in the same group.
+## [[Skills]]
 
 ## EXAMPLE TESTS
 
@@ -13793,49 +13303,9 @@ For example, a hero who activates a fire trap might need to make the following r
 
 Many abilities and other options refer to creatures, objects, or spaces that are adjacent to a specified creature. Something is adjacent to a creature if it is within 1 square of that creature.
 
-## FALLING
+## [[Falling]]
 
-When you fall 2 or more squares, you take 2 damage for each square you fall, then you land [[Prone|prone]]. When you fall, you reduce the effective height of the fall by a number of squares equal to your **Agility** score (minimum 0). Falling into liquid that is at least 1 square deep reduces the effective height of a fall by 4 squares.
-
-Falling is not [[Forced Movement|forced movement]], but being force-moved downward is considered falling (see [[Forced Movement]] in Combat). Movement from falling doesn't provoke opportunity attacks (see Opportunity Attacks).
-
-### FALLING ONTO ANOTHER CREATURE
-
-If you land on another creature when you fall, that creature takes the same damage you do from the fall. You then land [[Prone|prone]] in the nearest unoccupied space of your choice. If your size is greater than the creature's **Might** score, the creature also falls [[Prone|prone]].
-
-### FALLING FAR
-
-When you first fall from a great height, you fall 100 squares in the first round. At the end of each subsequent round that you remain falling, you fall another 100 squares.
-
-## HIDE AND SNEAK
-
-Hiding and sneaking are important tools for heroes and their foes. You might want to avoid another creature's notice to eavesdrop on conversations, steal items, set up an ambush, or avoid a combat encounter.
-
-### HIDING
-
-When you wish to [[Hide|hide]] from a creature, you must have **cover** or **concealment** (see Combat) from your foe, and that foe can't observe you attempting to [[Hide|hide]]. A creature is observing you if they're aware of your specific location before you attempt to [[Hide|hide]]. This means they can pinpoint you with their senses and be able to point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to [[Hide|hide]] from a foe, your attempt to [[Hide|hide]] has a chance of succeeding only if your foe doesn't notice you doing so. If you are being chased by a hungry dragon, you can [[Hide|hide]] only if you first move into a place where the dragon can't observe you, such as turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your [[Hide|hide]] attempt.
-
-When you use the **[[Hide]]** maneuver to [[Hide|hide]] during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise.
-
-If you [[Hide|hide]] outside of combat, the Director might ask you to make a **test** using the **[[Hide]]** skill to see how well hidden you are. While you are hidden from another creature, you gain an **edge** on attacks made against them, and the creature can't target you with attacks. This benefit lasts until the end of the turn in which you become no longer hidden.
-
-These rules allow you to be hidden from another creature at the start of your turn, move out of **cover** or **concealment** toward them, and attack while still gaining the benefit of being hidden, as long as you make your attack before the end of the turn in which you moved out of hiding.
-
-You are no longer hidden from a creature if you don't have cover or concealment from them. If you use an ability, interact with an enemy creature, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the action resolves. For instance, if you are hidden and then make an attack, you resolve the attack first, then you are no longer hidden.
-
-#### SEARCHING FOR HIDDEN CREATURES
-
-You can search for creatures who are hidden from you as long as those creatures are within 10 squares of you and you have **line of effect** to them. To do so, you make an **Intuition** test as a maneuver and assess the result:
-
-- **11 or lower:** You find any hidden creatures with an **Agility** of 0 or lower and who don't have the **[[Hide]]** skill.
-- **12-16:** You find any hidden creatures who don't have the **[[Hide]]** skill.
-- **17 or more:** You find all hidden creatures.
-
-As part of this maneuver, you can point out any creatures you find to allies within 10 squares of you, making those creatures no longer hidden from those allies. If a creature is hidden from your allies but not from you, you can use a maneuver without making a test to point them out to your allies.
-
-### SNEAKING
-
-While you are hidden from another creature and not in combat, you can attempt to **sneak**, which means avoiding the senses of other creatures as you move around them in the open, in order to remain hidden. While sneaking, your speed is halved. If you do so, you can make an **Agility** test with a difficulty set by the Director, remaining hidden during your movement if you succeed. This test can use another characteristic at the Director's discretion, such as using **Presence** to blend in with a crowd in a packed city street.
+## [[Hide and Sneak]]
 
 ## SUPERNATURAL OR MUNDANE
 
@@ -13943,20 +13413,7 @@ If you make a ranged attack while an enemy is adjacent to you, you have a bane o
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability. The ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [[Cloak And Dagger|Cloak and Dagger]] kit, which has a weapon damage bonus to melee and ranged abilities, only one bonus at a time applies to an ability with the Melee or Ranged keywords.
 
-### AREA ABILITIES
-
-Area abilities cover an area, creating an effect within that area that lets you target multiple creatures or objects at once. When an ability allows you to create an area of effect, you are sometimes given a distance, noted as "within X," that describes how many squares away from you the area can be. If an area ability doesn't originate from you, then at least 1 square of the area of effect must be within that distance and your line of effect. This square is referred to as the origin square of the area of effect. The area of effect can spread from the origin square however you choose, as long as the area of effect conforms to the shape and arrangement rules of that particular area.
-
-Unless otherwise noted, area abilities don't pass through solid barriers such as walls or ceilings or spread around corners. As long as you have line of effect and distance to the origin square, you can place an area ability to include one or more squares where you don't have line of effect (see Line of Effect below).
-
-An area ability might use any of the following areas of effect:
-
-- **Aura:** When an ability creates an aura, it is expressed as "X aura." Aura areas always originate from you and move with you for the duration of the ability that created them. A creature must be within X squares of you to be targeted by an aura ability.
-- **Burst:** When an ability creates a burst area, it is expressed as "X burst." Burst areas always originate from you. A creature must be within X squares of you to be targeted with a burst ability.
-- **Cube:** When an ability affects a cubic area, it is expressed as "X cube." X is the length of all the area's sides.
-- **Line:** When an ability affects a linear area, it is expressed as "A × B line." This means that A equals the line's length in squares, while B equals the line's width and height in squares.
-- **Wall:** When an ability creates a wall, it is expressed as "X wall," where X equals how many squares are used to make the wall. When you place a wall, you can build it one square at a time, but each square must share at least one side (not just a corner) with another square of the wall. You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can't be placed in occupied squares, and a wall blocks line of effect.
-- **Special:** Some abilities create a unique area of effect. The distance entry of such abilities specifies how the area is created.
+### [[Area Abilities]]
 
 ### SELF
 
@@ -14024,9 +13481,7 @@ If an ability effect has a potency, it is listed in the ability.
 
 Certain ability effects allow you to move and affect other creatures or objects during that move, such as the shadow's Blade Dance ability. For such abilities, the move begins in the space you first leave when you begin the move, and ends in the last space you move into.
 
-### CRITICAL HIT
-
-When you make a power roll as part of an attack or action and the total of the roll is 19 or 20 before adding your characteristic (a natural 19 or natural 20), you score a critical hit. This allows you to immediately take an additional action after resolving the power roll, whether or not it's your turn and even if you are [[Dazed|dazed]] (see Conditions).
+### [[Critical Hits]]
 
 ### ROLL AGAINST MULTIPLE CREATURES
 
@@ -14074,15 +13529,7 @@ If an effect ends with "(save ends)" at the end of its description, then a creat
 
 A saving throw represents your luck in shaking off an effect. You likely already got a chance to resist the effect using your characteristic score to resist a potency or make a resistance roll, so now it's down to fate. To make a saving throw, roll a 1d10. On a result of 6 or higher, the effect ends. Otherwise, it continues.
 
-## LINE OF EFFECT
-
-To target a creature or object with an ability, including attacking the creature or object, you must have line of effect to that creature or object. If a solid object, such as a wall or pillar, completely blocks the creature from you, then you don't have line of effect to them.
-
-If you're not sure if you have line of effect to a creature, imagine drawing a straight line from any corner of the space you occupy on the map to any corner of a space the creature occupies. If you can do this with at least one corner connecting to another with no obstruction in between, you have line of effect to the creature.
-
-At the Director's discretion, flimsy or fragile obstructions such as a glass window or linen curtains don't block line of effect, and might be automatically broken or torn by attacks made through them.
-
-If you want to create an area of effect in a specific area, you must have line of effect to at least one of the squares in that area. See Area Abilities.
+## [[Line of Effect]]
 
 ## STRAIGHT LINE
 
@@ -14520,9 +13967,7 @@ Many tests are maneuvers if made in combat. Searching a chest with a *Reason* te
 
 Complex or time-consuming tests might require an action if made in combat-or could take so long that they can't be made during combat at all. Other tests that take no time at all, such as a *Reason* test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
 
-### SEARCH FOR HIDDEN CREATURES
-
-You can use this maneuver to attempt to search for creatures hidden from you (see *[[Hide]] and Sneak*).
+### [[DS Compendium/Rules/Search for Hidden Creatures]]
 
 ### STAND UP
 
@@ -14566,11 +14011,7 @@ Many rules and abilities allow heroes to make [[Free Strike|free strikes]] when 
 
 Some abilities, like the tactician's *Seize the Opening* ability, allow one creature to target another and let them use a signature or heroic action. Unless otherwise stated, you can always use a [[Free Strike|free strike]] in place of the action granted.
 
-### OPPORTUNITY ATTACKS
-
-Whenever a creature adjacent to you moves to a space that isn't adjacent to you without [[Shifting|shifting]], you can take advantage of their movement to quickly make a melee [[Free Strike|free strike]] against them as a free triggered action. This is called an opportunity attack.
-
-If you have a bane or double bane on the power roll against the creature, you can't make the [[Free Strike|free strike]].
+### [[Opportunity Attacks]]
 
 ### STANDARD FREE STRIKES
 
@@ -14682,11 +14123,7 @@ Your winded value equals half your Stamina maximum. When your Stamina is equal t
 
 You can tell when other creatures are winded and vice versa.
 
-### DYING AND DEATH
-
-When your Stamina is 0 or lower, you are dying. While dying, you can't take the *[[Catch Breath]]* action in combat, you are [[Bleeding|bleeding]], and this condition can't be removed in any way until you are no longer dying. While you are dying, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
-
-While your Stamina is lower than 0, if it reaches the negative of your [[Winded]] value, you die. When you die, you can't be brought back to life without the use of a special powerful item such as a *Scroll of Resurrection*.
+## [[Death and Dying]]
 
 ### DIRECTOR-CONTROLLED CREATURES
 
@@ -15756,7 +15193,7 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 | Rejuvenating I  | A singing quartz crystal                        | The First Language      |
 | Seeking         | An inch-long needle carved from a diamond       | Caelian                 |
 | Thought Sending | The brain of a psionic creature                 | Variac                  |
-| Warding I       | Three skulls from the same [[Chimera\|chimera]] | Zaliac                  |
+| Warding I       | Three skulls from the same [[0Chimera\|chimera]] | Zaliac                  |
 
 - **Berserking:** Whenever you damage a creature using a supernatural ability and obtain a tier 3 result on the power roll, that creature must make an opportunity attack against their nearest ally (if possible) after the ability's effects resolve. This attack deals extra damage equal to the highest of your Reason, Intuition, or Presence scores.
 

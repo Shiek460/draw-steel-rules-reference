@@ -1,0 +1,3 @@
+KOBOLD MALICE 
+# MALICE FEATURES
+At the start of any kobold’s turn, you can spend malice to activate one of the following features. Maniple Tactics ◆ 3 Malice Up to 3 kobolds make a free strike, swaps positions with an adjacent kobold, and then that kobold makes a free strike. Set the Initiative ◆ 7 Malice Two kobolds take their turns in a row. Shield Wall ◆ 7 Malice Until the end of the round, all kobolds with Shield? Shield! Impose an additional bane on incoming strikes and abilities. 

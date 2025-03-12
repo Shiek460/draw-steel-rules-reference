@@ -1,0 +1,3 @@
+DEVIL MALICE 
+# MALICE FEATURES
+At the start of any devil’s turn, you can spend malice to activate one of the following features. Bureaucratic Tape◆ 3 Malice A devil acting on this turn uses a signature action against an adjacent creature. If they roll a tier-3 result, the target has a double bane on strikes (save ends). Underhanded Tactics ◆ 5 Malice Each devil in the encounter can teleport to a space adjacent to another non-hidden creature in the encounter and make a free strike. Read the Small Print ◆ 7 Malice Each enemy in the encounter is subject to a bad deal proposed by the devils. An enemy must choose between damage weakness 5 or having a bane on power rolls. The bad deal lasts until the end of the encounter. 

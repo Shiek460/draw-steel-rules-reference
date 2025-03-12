@@ -1,0 +1,5 @@
+LIGHTBENDER MALICE 
+# MALICE FEATURES
+At the start of any lightbender’s turn, you can spend malice to activate one of the following features. Silent Prowl ◆ 3 Malice A lightbender acting this turn adds the teleport keyword to their movement and can hide as a free maneuver until the start of their next turn. Duplicate ◆ 5 Malice A lightbender acting this turn creates a duplicate lightbender in an unoccupied space adjacent to them. The duplicate has 1 
+stamina: and shares the lightbender’s speed and turn. Once per round, the lightbender can instantly trade places with a duplicate before or after using an ability. Everything The Light Touches ◆ 7 Malice All lightbenders in the encounter shine radiantly and distort the senses of each enemy within 5 of one. Each affected enemy makes a 
+Reason test. ✸ ≤11 The target can’t establish line of effect with any lightbenders (save ends) ★ 12-16 The target can’t establish line of effect with any lightbenders (EoT) ✦ 17 no effect 

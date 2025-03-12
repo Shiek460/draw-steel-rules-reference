@@ -1,0 +1,4 @@
+WAR DOG MALICE LEVEL 4+ 
+# MALICE FEATURES
+At the start of a level 4+ war dog’s turn, you can spend malice to activate one of the following features. Prior Malice Features ◆ X Malice The war dog activates a malice feature available to war dogs level 3 or lower. Loyalty Unto Death (Maneuver) ◆ 3 Malice Keywords Magic, Ranged Distance Ranged 10 Target Two war dogs with loyalty collars Effect Each target shifts up to their speed and has their loyalty collar detonates, killing them instantly. Enemies adjacent to each target must make a 
+Presence test. ✸ ≤11 push 4; frightened of the nearest non-minion war dog (save ends) ★ 12-16 push 2; frightened of the nearest non-minion war dog (EoT) ✦ 17 push 2 

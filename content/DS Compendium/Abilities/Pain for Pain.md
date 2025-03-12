@@ -27,9 +27,9 @@ target: 1 creature
 
 **Power Roll + Might:**
 
-- **11 or lower:** 3 + M damage
-- **12-16:** 5 + M damage
-- **17+:** 9 + M damage
+- **11 or lower:** 5 + M damage
+- **12-16:** 7 + M damage
+- **17+:** 13 + M damage
 **Bonus melee damage** +2/+2/+4
 
 **Effect:** If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).

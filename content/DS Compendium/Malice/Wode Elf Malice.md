@@ -1,0 +1,3 @@
+WODE ELF MALICE 
+# MALICE FEATURES
+At the start of any wode elf’s turn, you can spend malice to activate one of the following features. Forest Network ◆ 3 Malice Each wode elf that ends this turn hidden can shift their speed while remaining hidden. Punishing Regrowth ◆ 5 Malice Until the end of the turn, each wode elf inflicts slide 2 with their strikes and they have an edge on their abilities. If a target force moved by one of these strikes ends the forced movement in difficult terrain, they are restrained (EoT). Vines Everywhere ◆ 7 Malice Vines emerge and rapidly grow across the entire encounter map. Each enemy must make an Agility test. ✸ ≤11 8 damage; restrained (save ends) ★ 12–16 restrained (EoT) ✦ 17+ no effect 

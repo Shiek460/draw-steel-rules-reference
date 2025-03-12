@@ -1,0 +1,4 @@
+WYVERN MALICE 
+# MALICE FEATURES
+At the start of any wyvern’s turn, you can spend malice to activate one of the following features. Simmering Anger ◆ 3 Malice One wyvern in the encounter can make a free strike against each enemy adjacent to them. Boiling Fury ◆ 5 Malice Until the end of the round, each wyvern in the encounter has a double edge on strikes and they can use their signature action instead of a free strike whenever they would make an opportunity attack. Overflowing Rage ◆ 7 Malice Each wyvern’s anger fills the area with a thick miasma of hated. Each enemy makes an 
+Intuition test. ✸ ≤11 Taunted by the nearest creature or object (save ends); power rolls made against the target have a double edge while they are taunted ★ 12-16 Taunted by the nearest creature or object (save ends) ✦ 17 no effect 

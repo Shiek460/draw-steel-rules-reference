@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Draw Steel Rules Repository",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "Rules Reference",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

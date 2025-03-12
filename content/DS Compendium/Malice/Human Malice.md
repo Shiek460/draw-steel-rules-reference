@@ -1,0 +1,4 @@
+HUMAN MALICE 
+# MALICE FEATURES
+At the start of any human’s turn, you can spend malice to activate one of the following features. Alchemical Device (Maneuver) (Non-minion) ◆ 3 Malice Keywords Area, Magic, Ranged Distance 3 cube within 10 Target Each enemy in the cube ✦ ≤11 4 corruption damage; A<0 slowed (save ends) ★ 12–16 6 corruption damage; A<1 slowed (save ends) ✸ 17+ 9 corruption damage; A<2 restrained (save ends) Exploit Opening ◆ 5 Malice Until the end of their turn, each human acting this turn has an edge on their abilities, or a double edge if their ability targets an enemy affected by a condition. Staying Power ◆ 7 Malice Each non-minion human in the encounter regains 
+stamina: equal to 5 times their level. 

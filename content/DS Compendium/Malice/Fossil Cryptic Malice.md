@@ -1,0 +1,4 @@
+FOSSIL CRYPTIC  MALICE 
+# MALICE FEATURES
+At the start of a fossil cryptic’s turn, you can spend malice to activate one of the following features. Floor Mosaic ◆ 3 Malice A creature on the ground slides up to 5 squares, ignoring stability. Stone Pillars ◆ 5 Malice Two pillars of stone 1 square wide thrust 5 squares up out of the ground anywhere on the encounter map. A creature in the area of a pillar before it rises falls prone on top of it. If the creature comes in contact with the ceiling, they are M<2 restrained (save ends). Choking Dust ◆ 10 Malice The air across the area of the encounter map becomes thick with dust until the end of the encounter. Each enemy in the dust must immediately make a 
+Might test, then repeat that test at the start of each of their turns: ✸ ≤11 Slowed (EoT); target’s stability is reduced by 3 (EoT) ★ 12–16 Target’s speed is reduced by 2 (EoT) and their stability is reduced by 1 (EoT). ✦ 17+ No effect 

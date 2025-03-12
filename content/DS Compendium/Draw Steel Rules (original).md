@@ -752,7 +752,7 @@ unescorted-prisoners who serve Ajax as forced labor or are fed into the Body Ban
 their fabled Hanging City of Kal Kalavar, the stone [[Dwarf|dwarves]] do not like this deal with the Overlord, but they lack the
 power-or perhaps the will-to rebel.
 
-The Hawklords of the High Aerie now act as Ajax's royal guard. Mounted on their [[Giant Hawk|giant hawks]], these [[Human|human]] warriors
+The Hawklords of the High Aerie now act as Ajax's royal guard. Mounted on their [[DS Compendium/Bestiary/Giant Hawk|giant hawks]], these [[Human|human]] warriors
 project Ajax's power, enforce his tyrannical order, and extend his influence into every corner of the wilderness. Their
 mastery of the air means that any revolt or rebellion is seen and crushed quickly. The Dragon Phalanx is broken now, its
 knights scattered.
@@ -924,7 +924,7 @@ they receive at various levels of play.
 The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are [[Local Hero|local heroes]]. They save
 lost caravans, besieged villages, and overlooked neighborhoods of cities. The heroes battle bands of mortal
 humanoids-[[Dwarf|dwarves]], elves, goblins, [[Human|humans]], kobolds, [[Orc|orcs]]. They face the occasional larger monstrous threat, such as a
-[[Bredbeddle|bredbeddle]], ogre, or [[Chimera|chimera]]. These are the kinds of creatures that can threaten a small community, but rarely have
+[[Bredbeddle|bredbeddle]], ogre, or [[0Chimera|chimera]]. These are the kinds of creatures that can threaten a small community, but rarely have
 plans for world domination or the destruction of the timescape. However, the adversaries might work for or be
 manipulated by a stronger threat as a foreshadowing of what awaits the hero at higher echelons.
 

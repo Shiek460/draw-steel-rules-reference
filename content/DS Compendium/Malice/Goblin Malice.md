@@ -1,0 +1,4 @@
+GOBLIN MALICE 
+# MALICE FEATURES
+At the start of any goblin’s turn, you can spend malice to activate one of the following features. Goblin Mode ◆ 3 Malice Each goblin in the encounter gains a +2 bonus to speed until the end of the round. Tiny Stabs ◆ 5 Malice Each enemy in the encounter takes 1 damage for each goblin adjacent to them. Swamp Stink ◆ 7 Malice The encounter map becomes covered in a green mist that lasts until the end of the round, and which can’t be dispersed by wind. All areas of the map become difficult terrain for non-goblins, and each non-goblin on the map must make a 
+Might test. ✦ ≤11 5 poison damage; weakened until mist disappears ★ 12–16 Weakened until mist disappears ✸ 17+ No effect 

@@ -1,0 +1,3 @@
+UNDEAD MALICE LEVEL 4+ 
+# MALICE FEATURES
+At the start of a level 4+ undead’s turn, you can spend malice to activate one of the following features. Prior Malice Features ◆ X Malice The undead activates a malice feature available to undead level 3 or lower. Blood Hunger ◆ 5 Malice As a part of the next signature action used on a bleeding creature, all undead creatures within 5 can move up to their speed and make a free strike on the same target. 

@@ -1,0 +1,3 @@
+HOBGOBLIN MALICE 
+# MALICE FEATURES
+At the start of any hobgoblin’s turn, you can spend malice to activate one of the following features. Goblin Malice Features ◆ X Malice The hobgoblin activates a malice feature available to goblins. Operation Goblin Mode ◆ 3 Malice Each goblin in the encounter gains a +3 bonus to speed until the end of the round. Operation Tactical Swarm ◆ 5 Malice All hobgoblins shift up to their speed and take the Defend action. Operation Earthsear ◆ 7 Malice The ground throughout the encounter map becomes blazing hot until the end of the round. An enemy takes 1 fire damage for each affected square they enter. An enemy that ends their turn in an affected square has fire weakness 2 until the start of their next turn. 

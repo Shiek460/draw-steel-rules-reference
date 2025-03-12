@@ -1,0 +1,5 @@
+SHAMBLING MOUND MALICE 
+# MALICE FEATURES
+At the start of a shambling mound’s turn, you can spend malice to activate one of the following features. Poisoned Vines ◆ 3 Malice The shambling mound seeps noxious residue from its vines and deals 12 poison damage against both targets the next time they use their Vine Lash action before the end of their next turn. Grasp and Squeeze ◆ 5 Malice The shambling mound writhes, lashing out at each enemy within 10 to snatch them into the air, crush them, and drop them. Each target makes an 
+Agility test. ✸ ≤11 7 damage; A<3 vertical or horizontal push 5; restrained ★ 12–16 6 damage; M<2 vertical or horizontal push 3 ✦ 17 3 damage Leeching Wilds ◆ 7 Malice Until the end of the shambling mound’s next turn, the area within 10 squares of them is considered difficult terrain for enemies. An enemy who starts their turn in an affected square takes 4 acid damage, and the shambling mound regains an equal amount of 
+stamina:. An enemy has a bane on power rolls while occupying an affected square. 
