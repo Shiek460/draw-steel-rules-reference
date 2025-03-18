@@ -15,7 +15,8 @@ stability: 3
 free_strike: 5
 characteristics:
   - +2
-  - +1  - +0
+  - +1
+  - +0
   - +0
   - +0
 actions:
